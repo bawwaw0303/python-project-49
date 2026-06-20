@@ -12,7 +12,7 @@ def game_engine(game):
     game_description = game.get('description', 'description not found')
     print(game_description)
     
-    for i in range(round_for_wins):
+    for _ in range(round_for_wins):
         question, result = game['generate_round']()
         print(f'Question: {question}')
         user_answer = prompt.string("Your answer: ")

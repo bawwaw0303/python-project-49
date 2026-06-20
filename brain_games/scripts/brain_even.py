@@ -10,7 +10,7 @@ def main():
     print(f'Hello, {name}!')
     print('Answer "yes" if the number is even, otherwise answer "no".')
     
-    for i in range(0, 3):
+    for _ in range(0, 3):
         number = randint(0, 1000000)
         if number % 2 == 0:
             parity = 'yes'
