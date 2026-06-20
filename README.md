@@ -9,4 +9,8 @@
 
 ## Демонстрация
 
+### Игра "Калькулятор"
+[![asciicast](https://asciinema.org/a/Vm0gOM18MHcb3yvl.svg)](https://asciinema.org/a/Vm0gOM18MHcb3yvl)
+
+### Игра "Чет-нечет" 
 [![asciicast](https://asciinema.org/a/eJjWabJGrGqIdaKh.svg)](https://asciinema.org/a/eJjWabJGrGqIdaKh)
