@@ -14,3 +14,6 @@
 
 ### Игра "Чет-нечет" 
 [![asciicast](https://asciinema.org/a/eJjWabJGrGqIdaKh.svg)](https://asciinema.org/a/eJjWabJGrGqIdaKh)
+
+### Игра "НОД"
+[![asciicast](https://asciinema.org/a/amr7s3stBCyaVHta.svg)](https://asciinema.org/a/amr7s3stBCyaVHta)
